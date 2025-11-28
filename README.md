@@ -76,3 +76,5 @@ If you found this software useful, we would really appreciate it if you cite it 
     year={2025},
     pages={1-5},
     doi={10.1109/ICCT-Europe63283.2025.11157669}}
+
+Licensed under the MIT License.
